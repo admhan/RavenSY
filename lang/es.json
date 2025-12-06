@@ -1,0 +1,153 @@
+{
+  "nav": {
+    "tagline": "El futuro de la tecnología confiable",
+    "home": "Inicio",
+    "services": "Servicios",
+    "solutions": "Soluciones",
+    "contact": "Contacto",
+    "cta": "Iniciar un proyecto"
+  },
+  "hero": {
+    "badge": "Ingeniería de nivel cuervo",
+    "title": "Creamos productos digitales resilientes y listos para IA",
+    "subtitle": "RavenSY construye experiencias seguras y de alto rendimiento que aceleran a los equipos y encantan a los usuarios.",
+    "primary": "Despegar con RavenSY",
+    "secondary": "Explorar servicios",
+    "stats": {
+      "speed": "MVP en menos de 4 semanas",
+      "security": "Gobernanza y auditorías de seguridad primero",
+      "ai": "Automatizaciones con IA integradas por defecto",
+      "global": "Localizado para más de 4 regiones"
+    }
+  },
+  "services": {
+    "hero": {
+      "badge": "Pods modulares de entrega",
+      "title": "Escuadras especializadas para software moderno",
+      "subtitle": "Del concepto al hardening de producción, nuestros equipos se conectan a tu roadmap para acelerar."
+    },
+    "title": "Servicios",
+    "subtitle": "Un stack modular de estrategia, diseño e ingeniería para pasar de la idea al ingreso.",
+    "card1": {
+      "title": "Estrategia y diseño de producto",
+      "desc": "Investigación, UX y sistemas de diseño que vuelven intuitivas las ideas complejas."
+    },
+    "card2": {
+      "title": "Ingeniería full-stack",
+      "desc": "Construcciones cloud-native, APIs y frontends pensados para fiabilidad y escala."
+    },
+    "card3": {
+      "title": "IA y automatización",
+      "desc": "Asistentes inteligentes, pipelines de datos y automatización hechos para tu equipo."
+    }
+  },
+  "why": {
+    "title": "Por qué RavenSY",
+    "subtitle": "Un socio diseñado para velocidad, claridad y confianza.",
+    "card1": {
+      "title": "Obsesión por el resultado",
+      "desc": "Cada sprint se conecta con impacto de negocio, no solo tickets cerrados."
+    },
+    "card2": {
+      "title": "Seguridad de origen",
+      "desc": "Revisiones de arquitectura, defaults zero-trust y decisiones privacy-first."
+    },
+    "card3": {
+      "title": "Entrega transparente",
+      "desc": "Actualizaciones async, demos y tableros para mantener el alineamiento."
+    },
+    "card4": {
+      "title": "Listo para el futuro",
+      "desc": "Stacks composables que evolucionan con tu producto, usuarios y mercados."
+    }
+  },
+  "process": {
+    "title": "Proceso",
+    "subtitle": "Cadencia predecible y ligera hecha para equipos distribuidos.",
+    "step1": {
+      "title": "Descubrir",
+      "desc": "Workshops rápidos identifican objetivos, restricciones y señales de éxito."
+    },
+    "step2": {
+      "title": "Diseñar",
+      "desc": "Prototipos y journeys validados con usuarios antes de escribir código."
+    },
+    "step3": {
+      "title": "Construir",
+      "desc": "Pods ágiles entregan semanalmente con QA, seguridad y observabilidad incluidas."
+    },
+    "step4": {
+      "title": "Optimizar",
+      "desc": "Ajuste de rendimiento, experimentos A/B y automatización para mantener el impulso."
+    }
+  },
+  "offers": {
+    "title": "Ofertas",
+    "subtitle": "Compromisos flexibles diseñados para equipos de producto modernos.",
+    "starter": {
+      "title": "Starter",
+      "price": "$4.9k / sprint",
+      "point1": "1 squad (PM + Diseñador + Ingeniero)",
+      "point2": "Demos semanales y updates async",
+      "point3": "Checklist de seguridad y accesibilidad"
+    },
+    "pro": {
+      "title": "Pro",
+      "price": "$8.9k / sprint",
+      "point1": "2+ squads con tech lead y QA",
+      "point2": "Automatización IA e instrumentación de datos",
+      "point3": "Playbook de lanzamiento y guardia"
+    },
+    "cta": "Reservar este plan"
+  },
+  "portfolio": {
+    "title": "Portafolio",
+    "subtitle": "Lanzamientos seleccionados que combinan velocidad y pulido.",
+    "item1": {
+      "title": "Plataforma NovaOps",
+      "desc": "Control de flotas IoT con observabilidad en tiempo real y alertas impulsadas por ML."
+    },
+    "item2": {
+      "title": "Aether Commerce",
+      "desc": "Tiendas composables con CMS headless, caché en el edge y cargas sub-segundo."
+    },
+    "item3": {
+      "title": "Helix Support IA",
+      "desc": "Asistente de soporte multilingüe que automatiza el 60% de los tickets de nivel 1."
+    }
+  },
+  "about": {
+    "title": "Sobre RavenSY",
+    "subtitle": "Colectivo de estrategas, diseñadores e ingenieros obsesionados con el momentum.",
+    "copy": "RavenSY mezcla liderazgo de producto con ingeniería de elite. Operamos como equipo embebido, alineando cada sprint a resultados medibles mientras cuidamos gobernanza, seguridad y craft.",
+    "stat1": "120+ lanzamientos entregados",
+    "stat2": "98% entregas a tiempo",
+    "stat3": "Soporte global 24/7",
+    "side": {
+      "title": "Lo que recibes",
+      "desc": "Patrones de entrega opinados, comunicación transparente y un equipo que piensa como dueño.",
+      "point1": "Design systems que escalan",
+      "point2": "Arquitectura probada en batalla",
+      "point3": "Optimización continua"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Habla con un estratega lead",
+      "title": "Mapeemos la ruta más rápida hacia el lanzamiento",
+      "subtitle": "Comparte objetivos y restricciones: respondemos en 24h con una hoja de ruta a medida.",
+      "primary": "Agendar llamada",
+      "stat1": "Respuesta en menos de 24h",
+      "stat2": "Líder de proyecto dedicado",
+      "stat3": "Cobertura de husos global",
+      "stat4": "Onboarding de alto toque"
+    },
+    "title": "Contactar RavenSY",
+    "subtitle": "Cuéntanos de tu producto y recibirás un plan curado.",
+    "name": "Tu nombre",
+    "email": "Email laboral",
+    "message": "Detalles del proyecto, cronograma, presupuesto...",
+    "submit": "Enviar a RavenSY"
+  },
+  "footer": "© 2024 RavenSY. Construido para equipos que se mueven rápido."
+}

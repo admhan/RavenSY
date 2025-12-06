@@ -1,0 +1,153 @@
+{
+  "nav": {
+    "tagline": "Future of reliable technology",
+    "home": "Home",
+    "services": "Services",
+    "solutions": "Solutions",
+    "contact": "Contact",
+    "cta": "Start a project"
+  },
+  "hero": {
+    "badge": "Raven-grade engineering",
+    "title": "We craft resilient, beautiful, AI-ready digital products",
+    "subtitle": "RavenSY builds secure, performant experiences that keep teams shipping faster and users delighted.",
+    "primary": "Launch with RavenSY",
+    "secondary": "Explore services",
+    "stats": {
+      "speed": "Under 4-week MVP delivery cycles",
+      "security": "Security-first governance & audits",
+      "ai": "Embedded AI automations by default",
+      "global": "Localized for 4+ regions"
+    }
+  },
+  "services": {
+    "hero": {
+      "badge": "Modular delivery pods",
+      "title": "Specialized squads for modern software ships",
+      "subtitle": "From concept to production hardening, our teams plug into your roadmap and accelerate delivery."
+    },
+    "title": "Services",
+    "subtitle": "A modular stack of strategy, design, and engineering to move from idea to revenue.",
+    "card1": {
+      "title": "Product Strategy & Design",
+      "desc": "Research, UX, and design systems that turn complex ideas into intuitive flows."
+    },
+    "card2": {
+      "title": "Full-stack Engineering",
+      "desc": "Cloud-native builds, APIs, and frontends crafted for reliability and scale."
+    },
+    "card3": {
+      "title": "AI & Automation",
+      "desc": "Intelligent assistants, data pipelines, and workflow automation tailored to your team."
+    }
+  },
+  "why": {
+    "title": "Why RavenSY",
+    "subtitle": "A partner engineered for velocity, clarity, and confidence.",
+    "card1": {
+      "title": "Outcome obsessed",
+      "desc": "We track every sprint to business impact, not just tickets closed."
+    },
+    "card2": {
+      "title": "Secure by design",
+      "desc": "Architecture reviews, zero-trust defaults, and privacy-first decisions."
+    },
+    "card3": {
+      "title": "Transparent delivery",
+      "desc": "Async updates, demos, and dashboards keep stakeholders aligned."
+    },
+    "card4": {
+      "title": "Future proof",
+      "desc": "Composable stacks that adapt as your product, users, and markets grow."
+    }
+  },
+  "process": {
+    "title": "Process",
+    "subtitle": "A predictable, lightweight cadence built for distributed teams.",
+    "step1": {
+      "title": "Discover",
+      "desc": "Rapid workshops uncover goals, constraints, and the signals of success."
+    },
+    "step2": {
+      "title": "Design",
+      "desc": "Prototypes and journeys validated with users before a single line ships."
+    },
+    "step3": {
+      "title": "Build",
+      "desc": "Agile pods deliver in weekly increments with QA, security, and observability baked in."
+    },
+    "step4": {
+      "title": "Optimize",
+      "desc": "Performance tuning, A/B experiments, and automation to keep momentum high."
+    }
+  },
+  "offers": {
+    "title": "Offers",
+    "subtitle": "Flexible engagements designed for modern product teams.",
+    "starter": {
+      "title": "Starter",
+      "price": "$4.9k / sprint",
+      "point1": "1 delivery squad (PM + Designer + Engineer)",
+      "point2": "Weekly demos & async updates",
+      "point3": "Security & accessibility checklist"
+    },
+    "pro": {
+      "title": "Pro",
+      "price": "$8.9k / sprint",
+      "point1": "2+ squads with tech lead & QA",
+      "point2": "AI automation & data instrumentation",
+      "point3": "Launch playbook & on-call coverage"
+    },
+    "cta": "Book this plan"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "Selected launches that pair velocity with polish.",
+    "item1": {
+      "title": "NovaOps Platform",
+      "desc": "Mission control for IoT fleets with real-time observability and ML-driven alerts."
+    },
+    "item2": {
+      "title": "Aether Commerce",
+      "desc": "Composable storefronts with headless CMS, edge caching, and sub-second loads."
+    },
+    "item3": {
+      "title": "Helix Support AI",
+      "desc": "Multilingual support assistant that automates 60% of tier-1 tickets."
+    }
+  },
+  "about": {
+    "title": "About RavenSY",
+    "subtitle": "A collective of strategists, designers, and engineers obsessed with momentum.",
+    "copy": "RavenSY blends product leadership with elite engineering. We operate as your embedded team, aligning every sprint to measurable wins while keeping governance, security, and craft at the core.",
+    "stat1": "120+ launches shipped",
+    "stat2": "98% on-time delivery",
+    "stat3": "24/7 global support",
+    "side": {
+      "title": "What you get",
+      "desc": "Opinionated delivery patterns, transparent communication, and a team that thinks like owners.",
+      "point1": "Design systems that scale",
+      "point2": "Battle-tested architecture",
+      "point3": "Ongoing optimization"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Talk to a lead strategist",
+      "title": "Let’s map your fastest path to launch",
+      "subtitle": "Share your goals and constraints—our experts reply with a tailored roadmap within 24 hours.",
+      "primary": "Schedule a call",
+      "stat1": "Under 24h response time",
+      "stat2": "Dedicated engagement lead",
+      "stat3": "Global time zone coverage",
+      "stat4": "High-touch onboarding"
+    },
+    "title": "Contact RavenSY",
+    "subtitle": "Tell us about your product and we’ll respond with a curated plan.",
+    "name": "Your name",
+    "email": "Work email",
+    "message": "Project details, timeline, budget...",
+    "submit": "Send to RavenSY"
+  },
+  "footer": "© 2024 RavenSY. Built for teams who move fast." 
+}

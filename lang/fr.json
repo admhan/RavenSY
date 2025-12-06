@@ -1,0 +1,153 @@
+{
+  "nav": {
+    "tagline": "Le futur de la technologie fiable",
+    "home": "Accueil",
+    "services": "Services",
+    "solutions": "Solutions",
+    "contact": "Contact",
+    "cta": "Lancer un projet"
+  },
+  "hero": {
+    "badge": "Ingénierie niveau corbeau",
+    "title": "Nous créons des produits digitaux résilients et prêts pour l’IA",
+    "subtitle": "RavenSY construit des expériences sécurisées et performantes qui accélèrent vos équipes et enchantent vos utilisateurs.",
+    "primary": "Décoller avec RavenSY",
+    "secondary": "Voir les services",
+    "stats": {
+      "speed": "Cycles MVP en moins de 4 semaines",
+      "security": "Gouvernance et audits sécurité en priorité",
+      "ai": "Automatisations IA intégrées par défaut",
+      "global": "Localisé pour 4+ régions"
+    }
+  },
+  "services": {
+    "hero": {
+      "badge": "Pods de livraison modulaires",
+      "title": "Des escouades spécialisées pour vos produits modernes",
+      "subtitle": "Du concept au durcissement production, nos équipes se branchent sur votre feuille de route pour accélérer."
+    },
+    "title": "Services",
+    "subtitle": "Une pile modulaire de stratégie, design et ingénierie pour passer de l’idée au revenu.",
+    "card1": {
+      "title": "Stratégie & Design produit",
+      "desc": "Recherche, UX et design systems pour transformer la complexité en simplicité."
+    },
+    "card2": {
+      "title": "Ingénierie full-stack",
+      "desc": "Builds cloud-native, APIs et frontends conçus pour la fiabilité et l’échelle."
+    },
+    "card3": {
+      "title": "IA & Automatisation",
+      "desc": "Assistants intelligents, pipelines de données et automatisation adaptés à votre équipe."
+    }
+  },
+  "why": {
+    "title": "Pourquoi RavenSY",
+    "subtitle": "Un partenaire pensé pour la vitesse, la clarté et la confiance.",
+    "card1": {
+      "title": "Obsédés par le résultat",
+      "desc": "Chaque sprint est relié à un impact business, pas seulement à des tickets fermés."
+    },
+    "card2": {
+      "title": "Sécurité by design",
+      "desc": "Revues d’architecture, défauts zero-trust et décisions privacy-first."
+    },
+    "card3": {
+      "title": "Livraison transparente",
+      "desc": "Mises à jour asynchrones, démos et dashboards pour aligner les parties prenantes."
+    },
+    "card4": {
+      "title": "À l’épreuve du futur",
+      "desc": "Stacks composables qui s’adaptent à vos produits, utilisateurs et marchés."
+    }
+  },
+  "process": {
+    "title": "Processus",
+    "subtitle": "Un rythme prévisible et léger, conçu pour les équipes distribuées.",
+    "step1": {
+      "title": "Découverte",
+      "desc": "Workshops rapides pour identifier objectifs, contraintes et indicateurs de succès."
+    },
+    "step2": {
+      "title": "Design",
+      "desc": "Prototypes et parcours validés avec les utilisateurs avant la moindre ligne de code."
+    },
+    "step3": {
+      "title": "Construction",
+      "desc": "Pods agiles livrant chaque semaine avec QA, sécurité et observabilité intégrées."
+    },
+    "step4": {
+      "title": "Optimisation",
+      "desc": "Performance, expérimentations A/B et automatisation pour maintenir l’élan."
+    }
+  },
+  "offers": {
+    "title": "Offres",
+    "subtitle": "Des engagements flexibles pensés pour les équipes produit modernes.",
+    "starter": {
+      "title": "Starter",
+      "price": "4,9k$ / sprint",
+      "point1": "1 squad (PM + Designer + Ingénieur)",
+      "point2": "Démos hebdo & mises à jour async",
+      "point3": "Checklist sécurité & accessibilité"
+    },
+    "pro": {
+      "title": "Pro",
+      "price": "8,9k$ / sprint",
+      "point1": "2+ squads avec tech lead & QA",
+      "point2": "Automatisation IA & instrumentation data",
+      "point3": "Playbook de lancement & astreinte"
+    },
+    "cta": "Réserver ce plan"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "Sélection de lancements alliant vitesse et finition.",
+    "item1": {
+      "title": "Plateforme NovaOps",
+      "desc": "Pilotage d’armadas IoT avec observabilité temps réel et alertes ML."
+    },
+    "item2": {
+      "title": "Aether Commerce",
+      "desc": "Boutiques composables avec CMS headless, cache edge et chargements ultra-rapides."
+    },
+    "item3": {
+      "title": "Helix Support IA",
+      "desc": "Assistant support multilingue qui automatise 60% des tickets niveau 1."
+    }
+  },
+  "about": {
+    "title": "À propos de RavenSY",
+    "subtitle": "Un collectif de stratèges, designers et ingénieurs obsédés par le momentum.",
+    "copy": "RavenSY marie leadership produit et ingénierie d’élite. Nous opérons comme une équipe intégrée, alignant chaque sprint sur des gains mesurables tout en gardant gouvernance, sécurité et craft au centre.",
+    "stat1": "120+ lancements livrés",
+    "stat2": "98% de livraison à temps",
+    "stat3": "Support global 24/7",
+    "side": {
+      "title": "Ce que vous obtenez",
+      "desc": "Des patterns d’exécution assumés, une communication transparente et une équipe qui pense en propriétaire.",
+      "point1": "Design systems évolutifs",
+      "point2": "Architecture éprouvée",
+      "point3": "Optimisation continue"
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Parlez à un lead strategist",
+      "title": "Traçons ensemble la route la plus rapide",
+      "subtitle": "Partagez objectifs et contraintes — nous répondons sous 24h avec une feuille de route sur mesure.",
+      "primary": "Planifier un appel",
+      "stat1": "Réponse en moins de 24h",
+      "stat2": "Lead dédié à votre projet",
+      "stat3": "Couverture multi-fuseaux horaires",
+      "stat4": "Onboarding premium"
+    },
+    "title": "Contacter RavenSY",
+    "subtitle": "Parlez-nous de votre produit et recevez un plan personnalisé.",
+    "name": "Votre nom",
+    "email": "Email professionnel",
+    "message": "Détails du projet, calendrier, budget...",
+    "submit": "Envoyer à RavenSY"
+  },
+  "footer": "© 2024 RavenSY. Construit pour les équipes qui vont vite."
+}
